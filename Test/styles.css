@@ -1,0 +1,24 @@
+h1 {
+    font-style: italic;
+    font-size: xx-large;
+    color: red;
+}
+
+h2 {
+    font-family:Verdana;
+    font-size: medium;
+    color: red;
+}
+
+h3 {
+    font-family:Verdana;
+    font-size: smaller;
+    color: red;
+}
+
+p {
+    font-style: italic;
+    font-family: Arial;
+    font-size: 1000%;
+    color: blue;
+}

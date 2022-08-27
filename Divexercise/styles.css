@@ -1,0 +1,12 @@
+/* p {
+    background-color: antiquewhite;
+    color: blue;
+    margin: 50px 100px 50px 50px;
+    padding: 5px 1px 10px 5px;
+    width: 40%;
+} */
+
+div {
+    border: 2px solid blue;
+    width: 30%;
+}

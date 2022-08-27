@@ -1,0 +1,19 @@
+html {
+    border: 5px solid blue;
+}
+body {background-color: bisque;}
+h1 {
+    font-family: Verdana;
+    color: blue;
+    font-size: 120%;
+    border: 4px dotted blue;
+}
+
+p {
+    font-family: Impact;
+    font-size: 32px;
+    color: red;
+}
+p {
+    border: 2px solid blue;
+}

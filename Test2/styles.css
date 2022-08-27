@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    height: 400vh;
+}
+
+h1 {
+    color: darkslategrey;
+    font-weight: 500;
+    font-style: oblique;
+    font-stretch:narrower;
+}
+
+h2 {color: darkolivegreen;
+    font-size: xx-large;
+    font-style: italic; }
+
+p {
+    color: blue;
+    font-size: large;
+    font-family: Verdana;
+    font-style: italic;
+}
+body {
+    height: 400vh;
+}
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: wheat;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color:yellow;
+}

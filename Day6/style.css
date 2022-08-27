@@ -1,0 +1,31 @@
+div {
+    height: 40px;
+}
+
+.outside-paragraph {
+    width: 100%;
+    max-width: 800px;
+    border: 1px solid lightblue;
+    margin: 40px;
+    
+}
+
+.container-text {
+    width: 50%;
+    min-width: 500px;
+    border: 2px solid red;    
+    margin: 40px;
+}
+
+/* .outside-paragraph {
+    border: 2px solid black;
+    width: 100%;
+    min-width: 800px;
+}
+
+/* .container-text {
+    border: 2px solid blue;
+    width: 50%;
+    min-width: 500px;
+}
+    

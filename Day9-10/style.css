@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(203, 232, 243);
+}
+
+button {
+    border: 0;
+    background-color: lightcoral;
+    color: white;
+    padding: 16px ;
+    border-radius: 25px;
+    width: 105px;
+}

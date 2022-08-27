@@ -1,0 +1,24 @@
+@font-face {
+    font-family:"Poppins";
+    src: url('Fonts/Poppins-ExtraBold.ttf');
+
+}
+
+p {
+    font-family: 'Poppins';
+}
+
+h1 {
+    font-size: 130%;
+    font-family: Verdana;
+}
+
+h2 {
+    font-size: 100%;
+}
+
+h3{
+    font-size: 90%;
+}
+
+

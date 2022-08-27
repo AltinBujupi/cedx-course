@@ -1,0 +1,53 @@
+table,td,th{
+    border: 1px solid orangered;
+    padding: 4px;
+}
+
+h1 {
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 900;
+    padding: 3px;
+    margin: 5px;
+}
+
+p {
+    margin: 10px 10px 5px 5px;
+}
+
+ul {
+    border: 2px solid skyblue;
+    padding-left: 18px;
+    margin-right: 60%;
+}
+
+ol {
+    border: 2px double blue;
+    padding: 6px 30px 6px 19px;
+    margin-right: 60%;
+}
+
+.ol-content {
+    border: 2px solid green;
+    
+}
+
+label {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+input {
+    border-color: goldenrod;
+    margin: 3px;
+    padding: 5px;
+}
+
+button {
+    font-style: italic;
+    color: goldenrod;
+    padding: 10px 25px;
+    margin: 10px 70px;
+    font-weight: bolder;
+    font-size: x-large;
+}

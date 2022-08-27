@@ -1,0 +1,58 @@
+body{
+    background-color:rgb(207, 202, 202);
+}
+input {
+    font-family: Helvetica;
+    border-color: gold;
+    margin: 2px;
+    background-color: darkgray;
+    padding: 5px;
+
+}
+
+/* input[required]:placeholder-shown {
+    border-color: orange;
+    padding: 13px 8px 13px 2px;
+    
+} */
+
+input[required] {
+    color: rgb(201, 171, 0);
+    font-style: italic;
+    border:2px solid gold;
+    background-color: darkorange;
+    
+}
+
+label {
+    color: rgb(0, 168, 235);
+    font-family: Tahoma;
+    font-size: larger;
+
+}
+
+button {
+    color: rgb(201, 171, 1);
+    padding: 10px 30px;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 4px;
+    margin-top: 5px;
+}
+
+p {
+    font-family: Tahoma;
+    color: rgb(201, 171, 1);
+    margin: 3px;
+}
+
+div {
+    text-align: center;
+    margin-top: 70px;
+}
+
+h1 {
+    font-size:50px;
+    font-family: Georgia;
+}

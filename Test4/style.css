@@ -1,0 +1,28 @@
+ul {
+    border: 2px solid lightblue;
+    padding: 19px;
+    margin-right:60% ;
+}
+
+.inside-content {
+    color: red;
+    margin-left: 6px;
+
+}
+
+.outside-content {
+    color: red;
+    padding-left: 17px;
+}
+
+table {
+    border: 1px solid slategray;
+}
+
+th {
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+}
