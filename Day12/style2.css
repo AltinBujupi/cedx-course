@@ -1,0 +1,39 @@
+.wrapper {
+    margin-top: 200px;
+    margin-left: 200px;
+    border: 1px solid red;
+    height: 1500px;
+}
+
+.wrapper div {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+
+.absolute {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+
+}
+
+.relative {
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+.fixed {
+    position: fixed;
+    /* border: 1px solid red;
+    width: 100px;
+    height: 100px; */
+    display: none;
+}
+
+.sticky {
+    position: sticky;
+    top: 20px;
+    display: none;
+}

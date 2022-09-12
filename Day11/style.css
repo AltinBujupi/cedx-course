@@ -1,0 +1,80 @@
+* {
+    margin: 5px auto;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 660px;
+    width: 600px;
+    border: 3px solid black;
+}
+
+.first {
+    height: 200px;
+    width: 75%;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.second {
+    height: 40px;
+    width: 80%;
+    border: 2px dotted black;
+    margin-top: 140px;
+}
+
+.third {
+    margin: 30px;
+    margin-left:73px;
+    margin-right: 0;
+    height: 300px;
+    width: 55%;
+    border: solid black;
+    float: left;
+}
+
+.fourth {
+    border: 2px dotted black;
+    height: 40%;
+    width: 90%;
+    margin-top: 20px;
+}
+
+.fifth {
+    border: 2px dotted black;
+    height: 40%;
+    width: 90%;
+    margin-top: 20px;
+}
+
+.sixth {
+    border: 2px solid black;
+    float: right;
+    width: 100px;
+    height: 300px;
+    margin-top: 30px;
+    margin-right: 75px;
+}
+
+.seven {
+    height: 40%;
+    width: 90%;
+    margin-top: 20px;
+    border: 2px dotted black;
+}
+
+.eight {
+    height: 40%;
+    width: 90%;
+    border: 2px dotted black;
+    margin-top: 20px;
+}
+
+.nine {
+    width: 75%;
+    height: 40px;
+    border: 2px solid black;
+    /* margin-top: 360px; */
+    display: inline-block;
+    margin-left: 72px;
+}
